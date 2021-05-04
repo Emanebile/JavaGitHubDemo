@@ -12,7 +12,7 @@ package com.mycompany.javagithubdemo;
 public class javademo {
    public static void main(String[] args){
        System.out.println("hello gith");
-    
+       System.out.println
 }
     
 }
